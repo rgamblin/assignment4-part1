@@ -10,7 +10,7 @@
     <title>login.php</title>
   </head>
   <section>
-    <form action="content.php" method="post">
+    <form action="content1.php" method="post">
       Username<input type="text" name="username">
       <button type="submit">Login</button>
     </form>
